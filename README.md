@@ -13,7 +13,7 @@
   <li> PostgreSQL </li>
 </ul>
 
-<h4> What this app does </h4>
+<h4> About app </h4>
 <ul>
   <li> Manages Flight informations </li>
   <li> Manages Employe informations </li>
